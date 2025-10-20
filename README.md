@@ -57,7 +57,6 @@ calculator_interct.py
 Screenshots
 <img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/e406539e-7551-455f-b976-1b5bfe10e96a" />
 
-![Uploading Screenshot_1.PNG…]()
 
 
 
