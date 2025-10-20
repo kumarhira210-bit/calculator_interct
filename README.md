@@ -1,4 +1,4 @@
-<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/70a1b582-db32-4309-ba9b-eb1d220196c7" />
+
 
 # calculator_interct
 
@@ -39,7 +39,7 @@ gui-calculator/
 
 ## 🚀 How to Run
 
-### 1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/kumarhira210-bit/gui-calculator.git
 cd gui-calculator
@@ -56,8 +56,9 @@ pip install -r requirements.txt
 ## Run the calculator
 calculator_interct.py
 
+
 Screenshots
-<img width="1366" height="720" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3d1bcd4d-77ee-429a-a42c-d48b060bfae1" />
-<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d92f3ca5-bfd3-4c79-8a21-def870886d40" />
+<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/70a1b582-db32-4309-ba9b-eb1d220196c7" />
+
 
 
