@@ -4,17 +4,17 @@ A **simple yet powerful calculator** application built with **Python (Tkinter)**
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🖥️ User-friendly **Graphical User Interface (GUI)** using **Tkinter**  
-- ➕ Supports **Addition, Subtraction, Multiplication, Division**  
-- 🔄 Includes **Clear (C)** and **Delete (⌫)** functions  
-- 🧾 Displays complete expressions before evaluating  
-- 💡 Lightweight, responsive, and works on any OS with Python installed  
+- User-friendly **Graphical User Interface (GUI)** using **Tkinter**  
+- Supports **Addition, Subtraction, Multiplication, Division**  
+- Includes **Clear (C)** and **Delete (⌫)** functions  
+- Displays complete expressions before evaluating  
+- Lightweight, responsive, and works on any OS with Python installed  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language:** Python 3.x  
 - **GUI Library:** Tkinter (built-in with Python)  
@@ -22,7 +22,7 @@ A **simple yet powerful calculator** application built with **Python (Tkinter)**
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 gui-calculator/
 │
@@ -35,12 +35,12 @@ gui-calculator/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ## 1. Clone the repository
 
-git clone https://github.com/kumarhira210-bit/gui-calculator.git
-cd gui-calculator
+git clone https://github.com/kumarhira210-bit/calculator_interct.git
+cd calculator_interct
 
 ##(Optional) Create and activate a virtual environment
 python -m venv venv
