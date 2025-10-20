@@ -1,6 +1,3 @@
-<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/70a1b582-db32-4309-ba9b-eb1d220196c7" />
-
-
 # calculator_interct
 
 A **simple yet powerful calculator** application built with **Python (Tkinter)** that provides a clean graphical interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -41,7 +38,7 @@ gui-calculator/
 ## 🚀 How to Run
 
 ## 1. Clone the repository
-```bash
+
 git clone https://github.com/kumarhira210-bit/gui-calculator.git
 cd gui-calculator
 
@@ -60,6 +57,8 @@ calculator_interct.py
 
 Screenshots
 <img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/70a1b582-db32-4309-ba9b-eb1d220196c7" />
+<img width="1366" height="720" alt="Screenshot_2" src="https://github.com/user-attachments/assets/365aa812-29d7-446a-b844-a08ac0a7b899" />
+
 
 
 
