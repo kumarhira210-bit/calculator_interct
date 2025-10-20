@@ -1,3 +1,4 @@
+<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/70a1b582-db32-4309-ba9b-eb1d220196c7" />
 
 # calculator_interct
 
