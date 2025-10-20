@@ -1,3 +1,4 @@
+
 # calculator_interct
 
 A **simple yet powerful calculator** application built with **Python (Tkinter)** that provides a clean graphical interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -55,8 +56,7 @@ pip install -r requirements.txt
 calculator_interct.py
 
 Screenshots
-<img width="1366" height="697" alt="image" src="https://github.com/user-attachments/assets/e406539e-7551-455f-b976-1b5bfe10e96a" />
-
-
+<img width="1366" height="720" alt="Screenshot_2" src="https://github.com/user-attachments/assets/3d1bcd4d-77ee-429a-a42c-d48b060bfae1" />
+<img width="1366" height="697" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d92f3ca5-bfd3-4c79-8a21-def870886d40" />
 
 
