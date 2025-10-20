@@ -1,0 +1,4 @@
+1 ttkbootstrap
+2 customtkinter
+3 Pillow
+4 numpy
